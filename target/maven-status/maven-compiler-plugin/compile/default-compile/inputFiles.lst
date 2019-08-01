@@ -1,0 +1,11 @@
+C:\data\workspace\projectManagerWeb\src\main\java\entity\Project.java
+C:\data\workspace\projectManagerWeb\src\main\java\entity\Task.java
+C:\data\workspace\projectManagerWeb\src\main\java\controller\Application.java
+C:\data\workspace\projectManagerWeb\src\main\java\dao\ParentTaskRepository.java
+C:\data\workspace\projectManagerWeb\src\main\java\entity\Users.java
+C:\data\workspace\projectManagerWeb\src\main\java\dao\ProjectRepository.java
+C:\data\workspace\projectManagerWeb\src\main\java\dao\TaskRepository.java
+C:\data\workspace\projectManagerWeb\src\main\java\util\HibernateUtil.java
+C:\data\workspace\projectManagerWeb\src\main\java\entity\ParentTask.java
+C:\data\workspace\projectManagerWeb\src\main\java\dao\UserRepository.java
+C:\data\workspace\projectManagerWeb\src\main\java\controller\ManagerController.java

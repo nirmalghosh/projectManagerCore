@@ -1,0 +1,11 @@
+controller\ManagerController.class
+entity\Task.class
+util\HibernateUtil.class
+entity\Users.class
+dao\ParentTaskRepository.class
+dao\UserRepository.class
+entity\Project.class
+dao\TaskRepository.class
+dao\ProjectRepository.class
+controller\Application.class
+entity\ParentTask.class
