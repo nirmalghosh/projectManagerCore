@@ -57,7 +57,7 @@ public class ManagerTest {
 	}
 	@Test
 	public void updateUserTest() throws Exception {
-		HttpUriRequest request = new HttpPost( "/updateUser?firstName=First1&lastName=Last&employeeID=emplid" );
+		HttpUriRequest request = new HttpPost( "http://localhost:8080/projectManagerWeb/updateUser?firstName=First1&lastName=Last&employeeID=emplid" );
 		 
 	    // When
 	    HttpResponse httpResponse = HttpClientBuilder.create().build().execute( request );
